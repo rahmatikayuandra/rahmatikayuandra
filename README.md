@@ -1,6 +1,7 @@
 # Hi, I'm Tikaa
 
-I'm a Computer Science student who loves exploring every corner of technology. From coding and data analysis to design and AI. I enjoy trying different things to discover where my true passion lies. I think, learning is not just about reaching the finish line, but enjoying the process of understanding how everything connects.  
+I'm a Computer Science student who loves exploring every corner of technology. 
+I WISH I COULD SEE THE CONTRIBUTION BOX FILLED WITH MANY SHADES OF GREEN.
 
 I believe in creating things that make life simpler, more meaningful, and a little more beautiful. Anyway, i love drawing and making art.
 
